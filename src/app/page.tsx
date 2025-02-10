@@ -25,8 +25,6 @@ export default function Home() {
   return (
     <div className="grid grid-rows-[auto_1fr_auto] items-center justify-items-center min-h-screen p-8 sm:p-12 font-[family-name:var(--font-geist-sans)] bg-gradient-to-br from-purple-50 to-blue-50">
       <header className="text-center">
-        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1054903371646805"
-        crossorigin="anonymous"></script>
         <h1 className="text-4xl sm:text-5xl font-bold text-gray-900 mb-2 sm:mb-4">
           Image<span className="text-blue-600">Pro</span>
         </h1>
